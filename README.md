@@ -26,9 +26,10 @@ Let us put together the code we had used in the class for image classification u
 The accuracy using Logistic Regression is 91.7%.
 
 ### Problem Statement
-Write a function called `digits()` which 
+Write a function called `solution()` which
 
 * accepts the parameters `X_train_digits` and `y_train_digits` datasets (available in your environment) for training, and 
+* Use SVC algorithm
 * returns the trained model as output
 
 ### Hint
